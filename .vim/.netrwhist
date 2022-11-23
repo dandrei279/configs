@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/andrei/Faculty/CPL/teme_cpl/tema2/cool/compiler'
+let g:netrw_dirhist_1='/home/andrei/Faculty/SI/lab08/si-lab-docker/layers/meta-raspberrypi/recipes-core/images'
+let g:netrw_dirhist_0='/home/andrei/Faculty/SI/lab08/si-lab-docker/layers/meta-raspberrypi/recipes-core'
+let g:netrw_dirhist_9='/home/andrei/Faculty/SI/lab08/si-lab-docker/build/conf'
+let g:netrw_dirhist_8='/home/andrei/Faculty/SI/lab08/si-lab-docker/build'
+let g:netrw_dirhist_7='/home/andrei/Faculty/SI/lab08/si-lab-docker/layers/poky'
+let g:netrw_dirhist_6='/home/andrei/Faculty/SI/lab08/si-lab-docker/layers'
+let g:netrw_dirhist_5='/home/andrei/Faculty/SM/assignments/tema1'
+let g:netrw_dirhist_4='/home/andrei/Faculty/SM/labs/lab07'
+let g:netrw_dirhist_3='/home/andrei/Faculty/SM/labs'
